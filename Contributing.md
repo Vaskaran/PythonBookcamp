@@ -5,7 +5,7 @@ Copyright for this book's source code belongs to the author. However, under fair
 ## How to Contribute
 
 1. Make sure you have a GitHub account.
-2. Fork the repository for the relevant book.
+2. Fork the repository for this book.
 3. Create a new branch on which to make your change, e.g. 
 `git checkout -b my_code_contribution`
 4. Commit your change. Include a commit message describing the correction. Please note that if your commit message is not clear, the correction will not be accepted.
