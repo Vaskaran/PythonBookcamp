@@ -1,0 +1,3 @@
+Dear Reader, this is my test file.
+It is originally stored at C:\TestData in my system.
+I hope you'll enjoy learning.
